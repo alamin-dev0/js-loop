@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        
+        {
+            "type": "chrome",
+            "name": "https://nexeshop.com/?_ab=0&_fd=0&_sc=1&preview_theme_id=180463370507",
+            "request": "launch",
+            "url": "https://nexeshop.com/?_ab=0&_fd=0&_sc=1&preview_theme_id=180463370507"
+        }
+    ]
+}
