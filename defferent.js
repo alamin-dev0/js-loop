@@ -22,15 +22,15 @@
 
 // give me th elist numbers 1 to 30 divisible by 5
 
-// for (let a = 0; a <= 30; i++) {
-//     if (a % 5 === 0) {
-//         console.log(a)
-//     }
-// }
-
-
-for (let i = 1; i < 500; i++) {
-    if (i / 3 === 1  && i % 3 === 0){
-        console.log(i)
+for (let a = 0; a <= 30; i++) {
+    if (a % 5 === 0) {
+        console.log(a)
     }
 }
+
+
+// for (let i = 1; i < 500; i++) {
+//     if (i / 3 === 1  && i % 3 === 0){
+//         console.log(i)
+//     }
+// }
