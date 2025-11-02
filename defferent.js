@@ -22,11 +22,11 @@
 
 // give me th elist numbers 1 to 30 divisible by 5
 
-for (let a = 0; a <= 30; i++) {
-    if (a % 5 === 0) {
-        console.log(a)
-    }
-}
+// for (let a = 0; a <= 30; i++) {
+//     if (a % 5 === 0) {
+//         console.log(a)
+//     }
+// }
 
 
 // for (let i = 1; i < 500; i++) {
@@ -34,3 +34,30 @@ for (let a = 0; a <= 30; i++) {
 //         console.log(i)
 //     }
 // }
+
+
+
+
+// for (let a = 0; a <= 100; a++) {
+//     if (a % 8 === 0 && a % 9 === 0) {
+//         console.log(a)
+//     }
+// }
+
+
+
+
+// give me the sum of numbers from 1 to 20 that are divisible by 3
+// let total = 0
+// for (let i = 1; i <= 20; i++) {
+//     if (i % 3 === 0) {
+//         console.log(i)
+//         total = total + i
+//         console.log('total' ,total)
+//     }
+// }
+// console.log('the total', total)
+
+
+
+
