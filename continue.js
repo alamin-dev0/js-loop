@@ -1,2 +1,2 @@
-// continue -- > skip this one 
-// break -- > i am  done 
+// continue -- > skip this iteration 
+// break -- > i am  done with this loop. loop end 
