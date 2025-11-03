@@ -55,7 +55,7 @@ let a = 0;
 while (a < 60) {
 // console.log(a)
 a++
-console.log('I give time perday 6 house' , a)
+console.log('I give time perday 6 hour' , a)
 }
 
 
@@ -122,7 +122,7 @@ while (g <= 100) {
 
 // for loop 
 for (let d = 0; d <= 60 ; d++){
-    console.log('i give time perday 6 house ',d)
+    console.log('i give time perday 6 hour ',d)
 }
 
 
