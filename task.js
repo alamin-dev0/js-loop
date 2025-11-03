@@ -47,65 +47,69 @@
 
 
 // while loop 
-// let a = 0;
-// while (a < 60) {
-// // console.log(a)
-// a++
-// console.log('I give time perday 6 house' , a)
-// }
+
+
+
+
+let a = 0;
+while (a < 60) {
+// console.log(a)
+a++
+console.log('I give time perday 6 house' , a)
+}
 
 
 
 
 
 
-// let c = 61;
-// while (c <= 100) {
+let c = 61;
+while (c <= 100) {
 
-//     if (c % 2 !== 0) {
-//         console.log(c)
-//     }
-//     c++
-// }
-
-
-
-
-
-
-
-// let e = 78;
-// while(e<=98){
-//     if(e%2!==1){
-//         console.log(e)
-//     }
-//     e++
-// }
+    if (c % 2 !== 0) {
+        console.log(c)
+    }
+    c++
+}
 
 
 
 
 
 
-// let f = 206;
+
+let e = 78;
+while(e<=98){
+    if(e%2!==1){
+        console.log(e)
+    }
+    e++
+}
+
+
+
+
+
+
+let f = 206;
 // let sum = 0;
-// while (f <= 311){
+while (f <= 311){
 
-//     if(f%2!==1){
-//         sum = sum + f
-//         // console.log(f)
-//     }
-//    f++
-// }
-// console.log(sum)
+    if(f%2!==1){
+        sum = sum + f
+        // console.log(f)
+    }
+   f++
+}
+console.log(sum)
 
-// let g = 0
-// while (g <= 100) {
-//     if (g % 5 === 0) {
-//         console.log(g)
-//     }
-//     g++
-// }
+let g = 0
+while (g <= 100) {
+    if (g % 5 === 0) {
+        console.log(g)
+    }
+    g++
+}
 
 
 
@@ -117,43 +121,43 @@
 
 
 // for loop 
-// for (let d = 0; d <= 60 ; d++){
-//     console.log('i give time perday 6 house ',d)
-// }
+for (let d = 0; d <= 60 ; d++){
+    console.log('i give time perday 6 house ',d)
+}
 
 
 
 
 
-// for (let c = 61; c <= 100; c++) {
-//     if (c % 2 !== 0) {
-//         console.log(c)
-//     }
-// }
+for (let c = 61; c <= 100; c++) {
+    if (c % 2 !== 0) {
+        console.log(c)
+    }
+}
 
 
 
 
 
 
-// for (let e = 78; e <= 98; e++) {
-//     if (e % 2 !== 1) {
-//         console.log(e)
-//     }
-// }
+for (let e = 78; e <= 98; e++) {
+    if (e % 2 !== 1) {
+        console.log(e)
+    }
+}
 
 
 
 
 
-// let sum = 0;
-// for (let f = 206; f <= 311; f++) {
-//     if (f % 2 !== 1) {
-//         console.log(f)
-//         sum = sum + f
-//     }
-// }
-// console.log(sum)
+let sum = 0;
+for (let f = 206; f <= 311; f++) {
+    if (f % 2 !== 1) {
+        console.log(f)
+        sum = sum + f
+    }
+}
+console.log(sum)
 
 
 
