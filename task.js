@@ -16,15 +16,19 @@
 
 // task tow
 
-let p = 0;
+// let p = 0;
 // let d = 1;
 
 
-while (p >= 100) {
-    console.log(p)
-    p++
+// while (p >= 100) {
+//     console.log(p)
+//     p++
 
-    if (p == 110) {
-        break
-    }
-}
+//     if (p == 110) {
+//         break
+//     }
+// }
+
+
+let a = 0;
+while 
